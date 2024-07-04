@@ -1,4 +1,4 @@
-link - https://food-delivery-nine-psi.vercel.app
+link live demo - https://food-delivery-nine-psi.vercel.app
 # Online-Food-Delivery-App
     ### Technology
     
